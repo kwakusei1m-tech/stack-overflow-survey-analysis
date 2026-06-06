@@ -32,7 +32,6 @@ images/Dashboard_Future.PNG
 
 ### 🔹 Demographics Analysis
 images/Dashboard_Demographics.PNG
-
 ---
 
 ## 🔍 Key Insights
