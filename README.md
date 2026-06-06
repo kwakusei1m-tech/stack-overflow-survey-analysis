@@ -81,4 +81,4 @@ This project demonstrates my ability to:
 
 - Data Analyst Capstone Project Report.pdf
 - Dashboard screenshots
-- Process
+- Data Processing Workflow Documentation
