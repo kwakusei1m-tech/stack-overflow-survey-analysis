@@ -1,5 +1,7 @@
 # 📊 Stack Overflow Developer Survey Analytics
 
+This project demonstrates an end-to-end data analytics workflow from data cleaning to dashboard-driven insights.
+
 ## 🔍 Overview
 
 This project analyses the Stack Overflow Developer Survey dataset to uncover:
