@@ -25,14 +25,13 @@ It demonstrates an end-to-end data analytics workflow including data cleaning, t
 ## 📈 Dashboard Outputs
 
 ### 🔹 Current Technology Usage
-![Current Dashboard](images/dashboard_current.png)
+images/Dashboard_Current.PNG
 
 ### 🔹 Future Technology Trends
-![Future Dashboard](images/dashboard_future.png)
+images/Dashboard_Future.PNG
 
 ### 🔹 Demographics Analysis
-![Demographics Dashboard](images/dashboard_demographics.png)
-
+images/Dashboard_Demographics.PNG
 ---
 
 ## 🔍 Key Insights
