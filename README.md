@@ -1,98 +1,84 @@
-# 📊 Stack Overflow Developer Survey Analytics Project
+# 📊 Stack Overflow Developer Survey Analytics
 
-## 🔹 Project Overview
-This project analyses the Stack Overflow Developer Survey dataset to uncover current technology usage, future technology trends, and developer demographics.
+## 🔍 Overview
 
-It demonstrates an end-to-end analytics workflow including:
-- Data cleaning
-- Data transformation
-- Data modelling
-- Dashboard development
-- Insight generation
+This project analyses the Stack Overflow Developer Survey dataset to uncover:
+- Current technology usage
+- Future technology trends
+- Developer demographics
 
----
-
-## 🔹 Business Question
-What technologies are developers using today, what do they want to use in the future, and how do these trends relate to demographic characteristics?
+It demonstrates an end-to-end data analytics workflow including data cleaning, transformation, modelling, and dashboard development.
 
 ---
 
-## 🔹 Tools & Technologies
+## 🛠️ Tools & Technologies
+
 - Excel & Power Query
-- SQL & Relational Databases
-- Python (Jupyter Notebooks)
-- Cognos Analytics (Dashboards)
+- SQL
+- Python (Jupyter Notebook)
+- Cognos Analytics
 
 ---
 
-## 🔹 Data Preparation
-- Identified multi-select fields containing semicolon-separated values
-- Split values into columns using Excel
-- Unpivoted data using Power Query
-- Created 8 normalized datasets
-- Built a Cognos data model using `ResponseId` relationships
+## 📈 Dashboard Outputs
+
+### 🔹 Current Technology Usage
+![Current Dashboard](images/dashboard_current.png)
+
+### 🔹 Future Technology Trends
+![Future Dashboard](images/dashboard_future.png)
+
+### 🔹 Demographics Analysis
+![Demographics Dashboard](images/dashboard_demographics.png)
 
 ---
 
-## 🔹 Dashboard Solution
+## 🔍 Key Insights
 
-Three dashboards were developed:
-
-### 1️⃣ Current Technology Usage
-### 2️⃣ Future Technology Trends
-### 3️⃣ Demographics
-
----
-
-## 🔹 Key Insights
-
-### ✅ Current Technology Usage
-- JavaScript dominates current usage
-- SQL, HTML/CSS, TypeScript, and Python are widely used
-- PostgreSQL is the most used database
+### ✅ Current Trends
+- JavaScript is the most widely used language
+- PostgreSQL dominates database usage
 - AWS leads cloud platforms
 
-### 🚀 Future Technology Trends
-- JavaScript remains the most desired language
-- TypeScript and Python show strong future demand
-- PostgreSQL remains the top desired database
-- AWS continues to lead platform preference
+### 🚀 Future Trends
+- TypeScript and Python show strong growth
+- PostgreSQL remains the most desired database
+- AWS continues to dominate cloud preference
 
 ### 👥 Demographics
-- Largest age group: **25–34 (41.3%)**
-- Strong education background (Bachelor’s & Master’s degrees)
-- Respondents represent early-to-mid career developers
+- Majority of respondents: 25–34 years
+- Strong representation of Bachelor's and Master's degrees
 
 ---
 
-## 🔹 Business Value
-- Supports **technology strategy and hiring decisions**
-- Guides **training and upskilling efforts**
-- Identifies **future technology demand trends**
+## 💼 Business Value
+
+This analysis supports:
+- Technology hiring decisions
+- Training and upskilling strategies
+- Data-driven business insights
 
 ---
 
-## 🔹 Key Takeaways
-- Technology trends show continuity with gradual evolution
-- JavaScript, PostgreSQL, and AWS dominate both current and future
-- Data-driven dashboards improve decision-making clarity
+## 🚀 Project Summary
 
----
+This project demonstrates my ability to:
+- Clean and transform real-world datasets
+- Build relational data models
+- Develop dashboards and visualisations
+- Communicate insights for decision-making
 
-## 🔹 Dashboards
+## 🧠 Key Skills Demonstrated
 
-### 📌 Current Technology Usage
-![Current Dashboard](images/dashboard1.png)
+- Data Cleaning & Transformation
+- Data Modelling
+- Dashboard Development
+- Data Visualisation
+- Analytical Thinking
+- Business Insight Generation
+- 
+- ## 📁 Project Files
 
-### 📌 Future Technology Trends
-![Future Dashboard](images/dashboard2.png)
-
-### 📌 Demographics
-![Demographics Dashboard](images/dashboard3.png)
-
----
-
-## 🔹 Future Improvements
-- Automate data cleaning using Python
-- Improve dashboard interactivity
-- Add predictive analytics for trend forecasting
+- Data Analyst Capstone Project Report.pdf
+- Dashboard screenshots
+- Process
